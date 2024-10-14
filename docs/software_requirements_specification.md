@@ -3,9 +3,9 @@ The purpose of this document is to define the functional and non-functional requ
 # Functional Requirements
 
 1. **User Authentication and Profile Management**
-    1.1 The system shall allow users to register for an account using an email address and password.
-    1.2 The system shall allow users to log in securely using their credentials.
-    1.3 The system shall implement a Remember me option to keep users logged in across sessions.
+    1.1.1 The system shall allow users to register for an account using an email address and password.
+    1.1.2 The system shall allow users to log in securely using their credentials.
+    1. 1.3 The system shall implement a Remember me option to keep users logged in across sessions.
     1.4 The system shall allow users to reset their password via an email-based recovery process.
     1.5 The system shall allow users to log out securely from any device.
 
