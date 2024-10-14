@@ -3,29 +3,34 @@ The purpose of this document is to define the functional and non-functional requ
 # Functional Requirements
 
 1. **User Authentication and Profile Management**
+   
     1.1. The system shall allow users to register for an account using an email address and password.
+   
     1.2. The system shall allow users to log in securely using their credentials.
+   
     1.3. The system shall implement a Remember me option to keep users logged in across sessions.
+   
     1.4. The system shall allow users to reset their password via an email-based recovery process.
+   
     1.5. The system shall allow users to log out securely from any device.
 
-2. **Budget Management**
+3. **Budget Management**
     2.1 The system shall allow users to input their monthly income and expected expenses.
     2.2 The system shall allow users to categorize expenses into different categories and add new ones (food, utilities, rent etc. )
     2.3 The system shall send a notification when the user spends more than the set predefined limit.
     2.4 The system shall allow users to set a budget for each expense category.
 
-3. **Expense Tracking**
+4. **Expense Tracking**
     3.1 The system shall allow users to manually add expenses with details such as date, amount, category, and description.
     3.2 The system shall allow users to edit or delete expenses.
     3.3 The system shall allow users to filter expenses by date, category, or amount.
 
-4. **Reporting**
+5. **Reporting**
     4.1 The system shall generate a report of the expenses summarizing everything or customized
     4.2 The system shall allow users to view reports in graphical and textual formats.
     4.3 The system shall allow users to export reports in CSV or PDF format.
 
-5. **User Settings**
+6. **User Settings**
     5.1 The system shall allow users to change their preferred currency.
     5.2 The system shall allow users to customize notification preferences
 
