@@ -1,9 +1,9 @@
-# The purpose of this document is to define the functional and non-functional requirements for the Personal Expense Tracker project. The system here is designed to help users manage their personal finances by allowing them to set budgets, track expenses, view reports and securely manage their financial data. It ensures accessibility on both desktop and mobile maintaining high level security and performance.
+### The purpose of this document is to define the functional and non-functional requirements for the Personal Expense Tracker project. The system here is designed to help users manage their personal finances by allowing them to set budgets, track expenses, view reports and securely manage their financial data. It ensures accessibility on both desktop and mobile maintaining high level security and performance.
 
 # Functional Requirements
 
-1. User Authentication and Profile Management
-    1. 1.1 The system shall allow users to register for an account using an email address and password.
+## 1. User Authentication and Profile Management
+    1. The system shall allow users to register for an account using an email address and password.
     2. The system shall allow users to log in securely using their credentials.
     3. The system shall implement a Remember me option to keep users logged in across sessions.
     4. The system shall allow users to reset their password via an email-based recovery process.
